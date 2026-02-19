@@ -1,0 +1,7 @@
+{
+  "name": "Solar Quote Estimator",
+  "description": "A professional solar panel estimation tool that allows users to outline their roof on a satellite map and receive detailed financial and system size reports.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
