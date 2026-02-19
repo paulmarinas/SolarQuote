@@ -1,5 +1,5 @@
 
-import React, { useState, useCallback, useEffect } from 'react';
+import React, { useState } from 'react';
 import { AppStep, Location, RoofData, SolarConfig, EstimationResults } from './types';
 import { DEFAULT_CONFIG } from './constants';
 import { calculateSolarEstimation } from './services/calculator';
